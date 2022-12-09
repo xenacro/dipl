@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }) {
           <p className="mr-4 text-pink-500">Home</p>
         </Link>
         <Link href="/create-item">
-          <p className="mr-6 text-pink-500">Sell Patent</p>
+          <p className="mr-6 text-pink-500">Add Patent</p>
         </Link>
         <Link href="/my-assets">
           <p className="mr-6 text-pink-500">My Patents</p>
